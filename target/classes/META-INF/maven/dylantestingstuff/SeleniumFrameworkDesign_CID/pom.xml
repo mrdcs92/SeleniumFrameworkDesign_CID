@@ -4,10 +4,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>dylantestingstuff</groupId>
-  <artifactId>SeleniumFrameworkDesign</artifactId>
+  <artifactId>SeleniumFrameworkDesign_CID</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>SeleniumFrameworkDesign</name>
+  <name>SeleniumFrameworkDesign_CID</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
