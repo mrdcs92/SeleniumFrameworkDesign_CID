@@ -43,6 +43,7 @@ public class ErrorValidation extends BaseTest {
 		CartPage cartPage = productCatalogue.goToCartPage();	
 		Boolean match = cartPage.VerifyProductDisplay(productName);
 		
+		System.out.println("testing for webhooks");
 		Assert.assertTrue(match);
 		//Assert.assertFalse(match);
 		
