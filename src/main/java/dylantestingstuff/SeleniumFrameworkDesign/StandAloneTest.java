@@ -31,7 +31,7 @@ public class StandAloneTest {
 		driver.get("https://rahulshettyacademy.com/client");
 		
 		LandingPage landingPage = new LandingPage(driver);
-		
+		// update with jenkins test
 		
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(5));
 		
