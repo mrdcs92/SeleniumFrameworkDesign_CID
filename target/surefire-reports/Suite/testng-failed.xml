@@ -17,7 +17,6 @@
     <classes>
       <class name="dylantestingstuff.SeleniumFrameworkDesign.ErrorValidation">
         <methods>
-          <include name="LoginErrorValidation"/>
           <include name="launchApplication"/>
           <include name="tearDown"/>
           <include name="ProductErrorValidation"/>

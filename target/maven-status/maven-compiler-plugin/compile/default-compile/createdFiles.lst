@@ -1,0 +1,8 @@
+pageobjects\OrderPage.class
+AbstractComponents\AbstractComponent.class
+pageobjects\ProductCatalogue.class
+pageobjects\CheckoutPage.class
+pageobjects\LandingPage.class
+dylantestingstuff\SeleniumFrameworkDesign\StandAloneTest.class
+pageobjects\CartPage.class
+pageobjects\ConfirmationPage.class
